@@ -46,7 +46,7 @@ export default function Sidebar({userName, type}: SidebarProps) {
         <Group>
           <Indicator color="green" position="bottom-end">
             <Avatar
-              src="./public/profile.png"
+              src="profile.png"
               alt={userName}
               radius="xl"
               color="cyan"
